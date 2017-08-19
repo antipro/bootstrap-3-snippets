@@ -58,6 +58,10 @@
 			{
  				"language": "typescriptreact",
  				"path": "./snippets/snippets.json"
+ 			},
+			{
+ 				"language": "vue",
+ 				"path": "./snippets/snippets.json"
  			} 
 		]
 	}
